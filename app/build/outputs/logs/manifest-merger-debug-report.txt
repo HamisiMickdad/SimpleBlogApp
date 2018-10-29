@@ -1,0 +1,467 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/738128a3a34dde513b9b50bf5cbb5ee0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/5ee4bec649de24a95d28226296e23e70/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f0038224c72b2fa1c1b6931e3d6b1bbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9f191bcbd15d54ac8aeedceed2dc2556/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hamisi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3726efe951e336cf69c042c34166da8c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/db6acca09a873dd97f5c27ee8a61a10d/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-firestore-11.8.0.aar/0b7165610ffcc5b31a4f60750b2fbf73/AndroidManifest.xml:2:1-8:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/907ad742f559884233cd430352aef202/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/1c5aaa9c72aa4babb34ab8caab418fe2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/e6ec436e77e6ecebfcb8ba5f48f89850/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/887f218ec527395436852ca742660e47/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/a07d0e7ecd8fa4e604529c0627cf72e2/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/06db26d8fe5d7f7aeb33528b51096d68/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/296f2f427c4f5b1a37d48e13ec88b596/AndroidManifest.xml:17:1-22:12
+MERGED from [id.zelory:compressor:2.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/e709f765c6ca8128f18050fde5659661/AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a859cef7be50ec2fafb9a49ad71f7373/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/ad4389e8681823cfced7c11db29a03b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/0b7f0aba95675c07a6ae83f3e7ace8bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cf08303837fc49475a0d2034926b2c3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/024c8781f83414b291b63c6973db84d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0b973ad7981d78b66cb65da08a825628/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/47b30ad891ce740b3d2c7ae14aed525c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b1021a21b82abadf6e3ef65ffd2861f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/23e1cb8fd891bd092dde0ca8970d3709/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/136a92e185effa3d3164a9f5805fdb8f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/e15592e38c756597d925a0fdf333a286/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/1ca27d4f98b60deb7467dc0f903a5634/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1ebd1e920ed4a7abd6f11fb750b5d0da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/4b8c6527f4302c4d52e9b20cb81cc1a4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/84fce64bdf3f7c6d8ee1ae9956a07b81/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/d22771e860d6de9c57252b8872d5db94/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/23ce9a7f15f75653ef3b5b95c8431de2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4e1afb85aef894a0ed184b45c3168bc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/169cf27e64559267ec4cfa72f55d5e2e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/3dd2089bcde99683ced57a2bcccb4f39/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/5a2a6cdf2e50d8e6cdd2b06796858d6e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/6fea5ff8793c21fa9b5d65b26505625e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/f929628a4f83a0e352658740e07cfb7d/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/56f0ae5a1ffc7f894c1b491b48b12704/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/f455be55217386520de0871d7f32e66b/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b09685648f1315bc4bf4330e2acd7a7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/a0d0c6d07bbe8bf127273ad2eb63a91d/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:9:5-40:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/5ee4bec649de24a95d28226296e23e70/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/5ee4bec649de24a95d28226296e23e70/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hamisi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3726efe951e336cf69c042c34166da8c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hamisi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3726efe951e336cf69c042c34166da8c/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:22:5-30:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/907ad742f559884233cd430352aef202/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/907ad742f559884233cd430352aef202/AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/1c5aaa9c72aa4babb34ab8caab418fe2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/1c5aaa9c72aa4babb34ab8caab418fe2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/e6ec436e77e6ecebfcb8ba5f48f89850/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/e6ec436e77e6ecebfcb8ba5f48f89850/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/887f218ec527395436852ca742660e47/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/887f218ec527395436852ca742660e47/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/06db26d8fe5d7f7aeb33528b51096d68/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/06db26d8fe5d7f7aeb33528b51096d68/AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a859cef7be50ec2fafb9a49ad71f7373/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a859cef7be50ec2fafb9a49ad71f7373/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/136a92e185effa3d3164a9f5805fdb8f/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/136a92e185effa3d3164a9f5805fdb8f/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/4b8c6527f4302c4d52e9b20cb81cc1a4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/4b8c6527f4302c4d52e9b20cb81cc1a4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/84fce64bdf3f7c6d8ee1ae9956a07b81/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/84fce64bdf3f7c6d8ee1ae9956a07b81/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/d22771e860d6de9c57252b8872d5db94/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/d22771e860d6de9c57252b8872d5db94/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/169cf27e64559267ec4cfa72f55d5e2e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/169cf27e64559267ec4cfa72f55d5e2e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/3dd2089bcde99683ced57a2bcccb4f39/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/3dd2089bcde99683ced57a2bcccb4f39/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/5a2a6cdf2e50d8e6cdd2b06796858d6e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/5a2a6cdf2e50d8e6cdd2b06796858d6e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/6fea5ff8793c21fa9b5d65b26505625e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/6fea5ff8793c21fa9b5d65b26505625e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/f929628a4f83a0e352658740e07cfb7d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/f929628a4f83a0e352658740e07cfb7d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/f455be55217386520de0871d7f32e66b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/f455be55217386520de0871d7f32e66b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/a0d0c6d07bbe8bf127273ad2eb63a91d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/a0d0c6d07bbe8bf127273ad2eb63a91d/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.hamsofts.simpleblogapp.MainActivity
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.hamsofts.simpleblogapp.LoginActivity
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:26:13-42
+activity#com.hamsofts.simpleblogapp.RegisterActivity
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:28:19-51
+activity#com.hamsofts.simpleblogapp.SetupActivity
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:29:19-48
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:30:9-32:59
+	android:theme
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:31:13-76
+activity#com.hamsofts.simpleblogapp.NewPostActivity
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:33:9-35:58
+	android:parentActivityName
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:35:13-55
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:34:13-44
+activity#com.hamsofts.simpleblogapp.CommentsActivity
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:36:9-38:58
+	android:parentActivityName
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:38:13-55
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:37:13-45
+activity#com.hamsofts.simpleblogapp.PostDetails
+ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:39:9-58
+	android:name
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml:39:19-46
+uses-sdk
+INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/738128a3a34dde513b9b50bf5cbb5ee0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/738128a3a34dde513b9b50bf5cbb5ee0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/5ee4bec649de24a95d28226296e23e70/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/5ee4bec649de24a95d28226296e23e70/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:design:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f0038224c72b2fa1c1b6931e3d6b1bbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f0038224c72b2fa1c1b6931e3d6b1bbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9f191bcbd15d54ac8aeedceed2dc2556/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9f191bcbd15d54ac8aeedceed2dc2556/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hamisi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3726efe951e336cf69c042c34166da8c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hamisi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3726efe951e336cf69c042c34166da8c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/db6acca09a873dd97f5c27ee8a61a10d/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/db6acca09a873dd97f5c27ee8a61a10d/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-firestore-11.8.0.aar/0b7165610ffcc5b31a4f60750b2fbf73/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-firestore-11.8.0.aar/0b7165610ffcc5b31a4f60750b2fbf73/AndroidManifest.xml:6:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/907ad742f559884233cd430352aef202/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/907ad742f559884233cd430352aef202/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/1c5aaa9c72aa4babb34ab8caab418fe2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/1c5aaa9c72aa4babb34ab8caab418fe2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/e6ec436e77e6ecebfcb8ba5f48f89850/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/e6ec436e77e6ecebfcb8ba5f48f89850/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/887f218ec527395436852ca742660e47/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/887f218ec527395436852ca742660e47/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/a07d0e7ecd8fa4e604529c0627cf72e2/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/a07d0e7ecd8fa4e604529c0627cf72e2/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/06db26d8fe5d7f7aeb33528b51096d68/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/06db26d8fe5d7f7aeb33528b51096d68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/296f2f427c4f5b1a37d48e13ec88b596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/296f2f427c4f5b1a37d48e13ec88b596/AndroidManifest.xml:20:5-44
+MERGED from [id.zelory:compressor:2.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/e709f765c6ca8128f18050fde5659661/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/e709f765c6ca8128f18050fde5659661/AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a859cef7be50ec2fafb9a49ad71f7373/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a859cef7be50ec2fafb9a49ad71f7373/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/ad4389e8681823cfced7c11db29a03b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/ad4389e8681823cfced7c11db29a03b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/0b7f0aba95675c07a6ae83f3e7ace8bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/0b7f0aba95675c07a6ae83f3e7ace8bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cf08303837fc49475a0d2034926b2c3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cf08303837fc49475a0d2034926b2c3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/024c8781f83414b291b63c6973db84d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/024c8781f83414b291b63c6973db84d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0b973ad7981d78b66cb65da08a825628/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0b973ad7981d78b66cb65da08a825628/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/47b30ad891ce740b3d2c7ae14aed525c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/47b30ad891ce740b3d2c7ae14aed525c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b1021a21b82abadf6e3ef65ffd2861f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b1021a21b82abadf6e3ef65ffd2861f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/23e1cb8fd891bd092dde0ca8970d3709/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/23e1cb8fd891bd092dde0ca8970d3709/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/136a92e185effa3d3164a9f5805fdb8f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/136a92e185effa3d3164a9f5805fdb8f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/e15592e38c756597d925a0fdf333a286/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/e15592e38c756597d925a0fdf333a286/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/1ca27d4f98b60deb7467dc0f903a5634/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/1ca27d4f98b60deb7467dc0f903a5634/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1ebd1e920ed4a7abd6f11fb750b5d0da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/hamisi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1ebd1e920ed4a7abd6f11fb750b5d0da/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/4b8c6527f4302c4d52e9b20cb81cc1a4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/4b8c6527f4302c4d52e9b20cb81cc1a4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/84fce64bdf3f7c6d8ee1ae9956a07b81/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/84fce64bdf3f7c6d8ee1ae9956a07b81/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/d22771e860d6de9c57252b8872d5db94/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/d22771e860d6de9c57252b8872d5db94/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/23ce9a7f15f75653ef3b5b95c8431de2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/23ce9a7f15f75653ef3b5b95c8431de2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4e1afb85aef894a0ed184b45c3168bc2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4e1afb85aef894a0ed184b45c3168bc2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/169cf27e64559267ec4cfa72f55d5e2e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/169cf27e64559267ec4cfa72f55d5e2e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/3dd2089bcde99683ced57a2bcccb4f39/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/3dd2089bcde99683ced57a2bcccb4f39/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/5a2a6cdf2e50d8e6cdd2b06796858d6e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/5a2a6cdf2e50d8e6cdd2b06796858d6e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/6fea5ff8793c21fa9b5d65b26505625e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/6fea5ff8793c21fa9b5d65b26505625e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/f929628a4f83a0e352658740e07cfb7d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/f929628a4f83a0e352658740e07cfb7d/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/56f0ae5a1ffc7f894c1b491b48b12704/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/56f0ae5a1ffc7f894c1b491b48b12704/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/f455be55217386520de0871d7f32e66b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/f455be55217386520de0871d7f32e66b/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.core:runtime:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b09685648f1315bc4bf4330e2acd7a7f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b09685648f1315bc4bf4330e2acd7a7f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/a0d0c6d07bbe8bf127273ad2eb63a91d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/a0d0c6d07bbe8bf127273ad2eb63a91d/AndroidManifest.xml:4:5-43
+INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hamisi/Android Studio Projects/Hamisi Projects/SimpleBlogApp/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/802d7e57efb6b2bc0009e0e4f8fcde16/AndroidManifest.xml:24:13-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/44a8fe8c7343850eb46485f030e524b8/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/b6e18878f76b52fcbe8275f95ee4a2a4/AndroidManifest.xml:48:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/1c5aaa9c72aa4babb34ab8caab418fe2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/1c5aaa9c72aa4babb34ab8caab418fe2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/1c5aaa9c72aa4babb34ab8caab418fe2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/1c5aaa9c72aa4babb34ab8caab418fe2/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:29:9-63
+permission#com.hamsofts.simpleblogapp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:32:22-76
+uses-permission#com.hamsofts.simpleblogapp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.hamsofts.simpleblogapp
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:42:27-58
+category#com.hamsofts.simpleblogapp
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3cb11b4c96c96e4afe2998435ae073ad/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/e6ec436e77e6ecebfcb8ba5f48f89850/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/e6ec436e77e6ecebfcb8ba5f48f89850/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/e6ec436e77e6ecebfcb8ba5f48f89850/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/e6ec436e77e6ecebfcb8ba5f48f89850/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/e6ec436e77e6ecebfcb8ba5f48f89850/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/06db26d8fe5d7f7aeb33528b51096d68/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/06db26d8fe5d7f7aeb33528b51096d68/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/hamisi/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/06db26d8fe5d7f7aeb33528b51096d68/AndroidManifest.xml:24:13-58
